@@ -9,3 +9,12 @@ table, td{
 td{
     padding: 10px;
 }
+
+.icono-demo{
+    font-size: 40px;
+    color: red;
+}
+
+.lista1{
+    list-style-type: circle;
+}
